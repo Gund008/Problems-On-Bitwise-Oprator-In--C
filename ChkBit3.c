@@ -1,7 +1,8 @@
 //Write a Program which Checks Whether is  7th and 15th & 21st,28th bit is On or Off.
+#include<stdio.h>
 
-typedef int BOOL
-typedef unsigned int UINT
+typedef int BOOL;
+typedef unsigned int UINT;
 
 #define TRUE 1
 #define FALSE 0
