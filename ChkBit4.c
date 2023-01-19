@@ -1,7 +1,9 @@
 //Write a Program which Checks Whether is  7th and 8th and 9th bit is On or Off.
 
-typedef int BOOL
-typedef unsigned int UINT
+#include<stdio.h>
+
+typedef int BOOL;
+typedef unsigned int UINT;
 
 #define TRUE 1
 #define FALSE 0
